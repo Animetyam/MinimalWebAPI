@@ -1,0 +1,6 @@
+@Prikol_HostAddress = http://localhost:5039
+
+GET {{Prikol_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
